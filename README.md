@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zukros
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning python and image processing
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m interested in Embedded Engineering & Robotics
+- 🌱 I’m currently learning  C/C++, Pytho & Image Processing
+- 💞️ I’m looking to collaborate on C/C++, Pytho & Image Processing
 - 📫 How to reach me akshay.sankle@gmail.com
 
 <!---
